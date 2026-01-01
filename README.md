@@ -1,4 +1,9 @@
 # Labratory-Orchestrator
-Demo for Labratory Orchestrator and Data Aggregator.
+
+Demo of Labratory Orchestrator and Data Aggregator, showcasing equipment integration, visual modelling.
+
+
+
+
 
 Copyright © 2026 Rama Kiran Peesa. All Rights Reserved.
