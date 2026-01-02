@@ -4,7 +4,7 @@ Demo of Labratory Orchestrator and Data Aggregator.
 
 Showcasing:
 
-* Visual Modelling
+* Visual Model Editor
 * Automatic Python Code Generation
 
 
