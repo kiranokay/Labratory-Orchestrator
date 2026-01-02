@@ -1,6 +1,11 @@
 # Labaratory-Orchestrator
 
-Demo of Labratory Orchestrator and Data Aggregator, showcasing equipment integration, visual modelling.
+Demo of Labratory Orchestrator and Data Aggregator.
+
+Showcasing:
+
+* Visual Modelling
+* Automatic Python Code Generation
 
 
 
