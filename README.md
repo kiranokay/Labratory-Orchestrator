@@ -1,4 +1,4 @@
-# Labaratory-Orchestrator
+# Laboratory-Orchestrator
 
 Demo of Labratory Orchestrator and Data Aggregator.
 
