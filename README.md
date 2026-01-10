@@ -6,7 +6,7 @@ Showcasing:
 
 * Visual Model Editor
 * Automatic Python Code Generation
-* Process / Experiment Manager
+* Workflow
 
 <p align="center"> <img src="DEMO.png" alt="Demo" width="700"/> </p>
 
